@@ -6,7 +6,7 @@
 
 ## Main Repo [ Linux-Hossin ]
 
-> **github.com/Oshekher/Linux**
+> **github.com/Linux**
 
 ## You are not allowed to modify the project.
 * Click Fork in the right corner of the screen to save it to your Github.
